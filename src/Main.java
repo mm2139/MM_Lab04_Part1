@@ -33,6 +33,5 @@ public class Main {
 
         System.out.println("The sum, difference, product, quotient, and modulo of " + doubleOperandA + " and " + doubleOperandB + " are " + doubleSum+", "+ doubleDifference + ", " + doubleProduct + ", " + doubleQuotient+ ", and " + doubleModulo + ".");
 
-
     }
 }
