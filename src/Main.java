@@ -31,7 +31,7 @@ public class Main {
         doubleQuotient = doubleOperandA / doubleOperandB;
         doubleModulo= doubleOperandA % doubleOperandB;
 
-        System.out.println("The sum, difference, product, quotient, and modulo of " + doubleOperandA + " and " + doubleOperandB + " are " + doubleSum+", "+ doubleDifference + ", " + doubleProduct + ", " + doubleQuotient+ ", and " + doubleModulo + ".");
+        System.out.println("The sum, difference, product, quotient, and modulo of " + doubleOperandA + " and " + doubleOperandB + " are " + doubleSum+ ", " + doubleDifference + ", " + doubleProduct + ", " + doubleQuotient+ ", and " + doubleModulo + ".");
 
     }
 }
