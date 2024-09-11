@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
+
+        //determining variables
         int intOperandA = 4;
         int intOperandB = 7;
         int intSum;
@@ -17,6 +19,7 @@ public class Main {
         double doubleQuotient;
         double doubleModulo;
 
+        // equations and printing of answers for int variables
         intSum = intOperandA + intOperandB;
         intDifference = intOperandA - intOperandB;
         intProduct = intOperandA * intOperandB;
@@ -25,6 +28,7 @@ public class Main {
 
         System.out.println("The sum, difference, product, quotient, and modulo of " + intOperandA + " and " + intOperandB + " are " + intSum + ", " + intDifference + ", " + intProduct + ", " + intQuotient + ", and " + intModulo + ".");
 
+        // equations and printing of answers for double variables
         doubleSum = doubleOperandA + doubleOperandB;
         doubleDifference = doubleOperandA - doubleOperandB;
         doubleProduct = doubleOperandA * doubleOperandB;
